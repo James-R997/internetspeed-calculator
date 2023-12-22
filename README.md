@@ -12,3 +12,5 @@ which means it can calculate 3 variables, speed, file size, and the time.
 speed = size/time
 time = size/speed 
 size = time*speed
+
+test test
